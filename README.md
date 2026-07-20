@@ -41,15 +41,31 @@ All experiments run on the **RareBench** evaluation dataset and are designed to 
 ```
 hullitonation-mitgration/
 │
-├── base-pfe-bio-pubmed.ipynb          # Phase 1 — BioMistral-7B, 8 baseline techniques
-├── base-pfe-open-pubmed.ipynb         # Phase 1 — OpenBioLLM-8B, 8 baseline techniques
+├── data/                               # Data generation & processing scripts
+│   ├── append_gard.py
+│   ├── convert_rarebench_to_cases.py
+│   ├── download_rarebench.py
+│   ├── generate_final_datasets.py
+│   └── knowledge_graph.json            # Disease-phenotype knowledge graph
 │
-├── advanced-technique-bio-final.ipynb # Phase 2 — BioMistral-7B, 4 KG-RAG architectures
-├── advanced-technique-open-final.ipynb# Phase 2 — OpenBioLLM-8B, 4 KG-RAG architectures
+├── deploy/                             # Web application & UI deployment
+│   ├── Dockerfile
+│   ├── app.py
+│   ├── kaggle_full_app.py
+│   └── requirements.txt
 │
-└── dataset/
-    ├── eval_rare_cases.jsonl          # RareBench evaluation cases
-    └── knowledge_graph.json           # Disease-phenotype knowledge graph
+├── notebooks/                          # Evaluation and benchmarking Jupyter notebooks
+│   ├── advanced-technique-bio-final.ipynb
+│   ├── base-pfe-bio-pubmed.ipynb
+│   ├── phenopacket-qwen-eval.ipynb
+│   └── ... (see below for full list)
+│
+├── src/                                # Core python RAG pipeline scripts
+│   ├── phase1_rag-pf.py
+│   └── phase3_rag_bio_v3.py
+│
+└── dataset/                            # Raw data & evaluation cases
+    └── eval_rare_cases.jsonl           # RareBench evaluation cases
 ```
 
 ---
