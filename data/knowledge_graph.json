@@ -1,0 +1,2015 @@
+{
+  "nodes": [
+    {
+      "id": "C0678236",
+      "name": "Rare Diseases",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1834219",
+      "name": "Parathyroid disease rare",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0920627",
+      "name": "Orphan Diseases",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0019247",
+      "name": "Hereditary Diseases",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C5816793",
+      "name": "Imprinting Disorders",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0013720",
+      "name": "Ehlers-Danlos Syndrome",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0268344",
+      "name": "Ehlers-Danlos syndrome 6B",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0268338",
+      "name": "Ehlers-Danlos Syndrome, Type IV",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0268342",
+      "name": "Ehlers-Danlos syndrome type 6",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0268336",
+      "name": "Ehlers-Danlos syndrome type 2",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0268335",
+      "name": "Ehlers-Danlos syndrome type 1",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0268347",
+      "name": "Ehlers-Danlos Syndrome, Type VIII",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0268337",
+      "name": "Ehlers-Danlos syndrome, type 3 (disorder)",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0268341",
+      "name": "Ehlers-Danlos syndrome type 5",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4552003",
+      "name": "Ehlers-Danlos syndrome progeroid type",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2676510",
+      "name": "Spondylocheirodysplasia, Ehlers-Danlos Syndrome-Like",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4551497",
+      "name": "Ehlers-Danlos syndrome kyphoscoliotic type",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1857034",
+      "name": "Ehlers-Danlos syndrome, cardiac valvular form",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2700425",
+      "name": "EHLERS-DANLOS SYNDROME, DERMATOSPARAXIS TYPE",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1857038",
+      "name": "Ehlers-Danlos Syndrome with Platelet Dysfunction from Fibronectin Abnormality",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4225429",
+      "name": "Ehlers-Danlos syndrome classic type",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1837462",
+      "name": "Ehlers-Danlos syndrome, Beasley Cohen type",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4551623",
+      "name": "EHLERS-DANLOS SYNDROME, ARTHROCHALASIA TYPE, 1",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0220679",
+      "name": "Ehlers-Danlos Syndrome, Autosomal Dominant, Type Unspecified",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1848029",
+      "name": "Ehlers-Danlos syndrome caused by tenascin-X deficiency",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1866294",
+      "name": "EHLERS-DANLOS SYNDROME, MUSCULOCONTRACTURAL TYPE 1",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3502156",
+      "name": "Ehlers-Danlos Syndrome VI Phenotype with Macrocephaly",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4303789",
+      "name": "Ehlers-Danlos syndrome cardiac valvular type",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3809210",
+      "name": "B3GALT6-related spondylodysplastic Ehlers-Danlos syndrome",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4540530",
+      "name": "EHLERS-DANLOS SYNDROME, NONVASCULAR VARIANT",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0024796",
+      "name": "Marfan Syndrome",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4016054",
+      "name": "Neonatal Marfan syndrome",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4016055",
+      "name": "MARFAN SYNDROME, ATYPICAL",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4016056",
+      "name": "MARFAN SYNDROME, MILD",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4016057",
+      "name": "MARFAN SYNDROME, CLASSIC",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4721845",
+      "name": "Marfan Syndrome, Type I",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2931058",
+      "name": "Marfan Syndrome Type 2",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4016053",
+      "name": "MARFAN SYNDROME, MILD VARIABLE",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4016052",
+      "name": "MARFAN SYNDROME, SEVERE CLASSIC",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4016059",
+      "name": "MARFAN SYNDROME, AUTOSOMAL RECESSIVE",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4310796",
+      "name": "MARFANOID-PROGEROID-LIPODYSTROPHY SYNDROME",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2674574",
+      "name": "Aortic aneurysm, familial thoracic 3",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4308213",
+      "name": "FBN1 protein, human",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0002986",
+      "name": "Fabry Disease",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1970820",
+      "name": "Fabry Disease, Cardiac Variant",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0017205",
+      "name": "Gaucher Disease",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0268251",
+      "name": "Gaucher Disease, Type 3",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0268250",
+      "name": "Gaucher Disease, Type 2",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1961835",
+      "name": "Gaucher Disease, Type 1",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2931585",
+      "name": "Gaucher-like disease",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1842704",
+      "name": "GAUCHER DISEASE, PERINATAL LETHAL",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1856476",
+      "name": "Gaucher Disease, Type Iiic",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1856491",
+      "name": "Gaucher Disease, Type IIIa",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1856492",
+      "name": "Gaucher Disease, Type IIIb",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1856493",
+      "name": "Gaucher Disease, Norrbottnian Type",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2930815",
+      "name": "Acute cerebral Gaucher disease",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1864651",
+      "name": "GAUCHER DISEASE, ATYPICAL, DUE TO SAPOSIN C DEFICIENCY",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1436561",
+      "name": "PSAP protein, human",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0020179",
+      "name": "Huntington Disease",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0751208",
+      "name": "Juvenile Huntington Disease",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1864112",
+      "name": "HUNTINGTON DISEASE-LIKE 1",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3711380",
+      "name": "Huntington Disease-Like Syndrome",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1847987",
+      "name": "HUNTINGTON DISEASE-LIKE 2",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0393574",
+      "name": "Huntington Disease, Late Onset",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1858114",
+      "name": "HUNTINGTON DISEASE-LIKE 3 (disorder)",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0751207",
+      "name": "Akinetic-Rigid Variant of Huntington Disease",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4255255",
+      "name": "Huntingtin Protein",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1846707",
+      "name": "SPINOCEREBELLAR ATAXIA 17",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0252274",
+      "name": "HD protein, human",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1675330",
+      "name": "Htt protein, mouse",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1567843",
+      "name": "Htt protein, rat",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1279186",
+      "name": "Westphal disease",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0010674",
+      "name": "Cystic Fibrosis",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0392164",
+      "name": "Pulmonary Cystic Fibrosis",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0056888",
+      "name": "cystic fibrosis serum factor",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0056889",
+      "name": "Cystic Fibrosis Transmembrane Conductance Regulator",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1859047",
+      "name": "CYSTIC FIBROSIS, MODIFIER OF, 1",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2931413",
+      "name": "Follicular hamartoma alopecia cystic fibrosis",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1527396",
+      "name": "Fibrocystic Disease of Pancreas",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4016407",
+      "name": "CYSTIC FIBROSIS LUNG DISEASE, MODIFIER OF",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4016791",
+      "name": "SWEAT CHLORIDE ELEVATION WITHOUT CYSTIC FIBROSIS",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1366582",
+      "name": "S100A8 gene",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0054504",
+      "name": "Calgranulin A",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0651197",
+      "name": "cystic fibrosis transmembrane conductance regulator (505-511)",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0297062",
+      "name": "cystic fibrosis transmembrane conductance regulator delta F508",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3276246",
+      "name": "MECONIUM ILEUS IN CYSTIC FIBROSIS, SUSCEPTIBILITY TO",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1335798",
+      "name": "S100A9 gene",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2749757",
+      "name": "BRONCHIECTASIS WITH OR WITHOUT ELEVATED SWEAT CHLORIDE 1",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2751324",
+      "name": "BRONCHIECTASIS WITH OR WITHOUT ELEVATED SWEAT CHLORIDE 3",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2751666",
+      "name": "BRONCHIECTASIS WITH OR WITHOUT ELEVATED SWEAT CHLORIDE 2",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0055725",
+      "name": "ciliary dyskinesia factor",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1413365",
+      "name": "CFTR gene",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1840270",
+      "name": "PSEUDOMONAS AERUGINOSA, SUSCEPTIBILITY TO CHRONIC INFECTION BY, IN CYSTIC FIBROSIS",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1857424",
+      "name": "Cystic Fibrosis with Helicobacter Pylori Gastritis, Megaloblastic Anemia, and Subnormal Mentality",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3806255",
+      "name": "CYSTIC FIBROSIS WITH HELICOBACTER PYLORI GASTRITIS, MEGALOBLASTIC ANEMIA, AND IMPAIRED INTELLECTUAL DEVELOPMENT",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3659855",
+      "name": "CFTR protein, rat",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4742376",
+      "name": "Cftr protein, mouse",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0751434",
+      "name": "Classical phenylketonuria",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0031485",
+      "name": "Phenylketonurias",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0268465",
+      "name": "Phenylketonuria II",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0085547",
+      "name": "Phenylketonuria, Maternal",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0002895",
+      "name": "Anemia, Sickle Cell",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0019034",
+      "name": "Hemoglobin SC Disease",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0039730",
+      "name": "Thalassemia",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0005283",
+      "name": "beta Thalassemia",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0002312",
+      "name": "alpha-Thalassemia",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0085578",
+      "name": "Thalassemia Minor",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0271979",
+      "name": "Thalassemia Intermedia",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0271990",
+      "name": "delta-Thalassemia",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0271985",
+      "name": "Delta-Beta Thalassemia",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0472762",
+      "name": "Alpha trait thalassemia",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0472767",
+      "name": "Beta thalassemia intermedia",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0002875",
+      "name": "Cooley's anemia",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3841475",
+      "name": "Beta plus thalassemia",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0271980",
+      "name": "Beta zero thalassemia",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0271991",
+      "name": "Delta zero thalassemia",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1456873",
+      "name": "Alpha plus thalassemia",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0472777",
+      "name": "Hemoglobin E/beta thalassemia disease",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4016190",
+      "name": "DELTA-PLUS-THALASSEMIA",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4017494",
+      "name": "BETA-KNOSSOS-THALASSEMIA",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4017510",
+      "name": "BETA-MALAY-THALASSEMIA",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4017526",
+      "name": "BETA-HOUSTON-THALASSEMIA",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1858990",
+      "name": "Beta Thalassemia, Dominant Inclusion Body Type",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0585216",
+      "name": "Alpha-Thalassemia Myelodysplasia Syndrome",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4310973",
+      "name": "BETA-THALASSEMIA INTERMEDIA, DOMINANT",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4017522",
+      "name": "BETA-SHOWA-YAKUSHIJI THALASSEMIA",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4016247",
+      "name": "Gamma delta beta thalassemia",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1861232",
+      "name": "Thalassemia, Beta+, Silent Allele",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0019202",
+      "name": "Hepatolenticular Degeneration",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0296649",
+      "name": "Wilson disease protein",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1527352",
+      "name": "Hepatic Form of Wilson Disease",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4759705",
+      "name": "Intracapillary glomerulosclerosis due to diabetes mellitus",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4547003",
+      "name": "ATP7B protein, human",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0019069",
+      "name": "Hemophilia A",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0008533",
+      "name": "Hemophilia B",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C5848256",
+      "name": "Hemophilia B Leyden",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3494186",
+      "name": "Autosomal Hemophilia A",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0042974",
+      "name": "von Willebrand Disease",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0015523",
+      "name": "Hereditary Factor XI Deficiency",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4016497",
+      "name": "HEMOPHILIA B BRANDENBURG",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0272325",
+      "name": "Factor 8 deficiency, acquired",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1844137",
+      "name": "Hemophilia A with Vascular Abnormality",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3494187",
+      "name": "Factor VIII Deficiency",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0272322",
+      "name": "Severe hereditary factor VIII deficiency disease",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0272324",
+      "name": "Mild hereditary factor VIII deficiency disease",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1307126",
+      "name": "factor VIII, human",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0026850",
+      "name": "Muscular Dystrophy",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0013264",
+      "name": "Muscular Dystrophy, Duchenne",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0238288",
+      "name": "Muscular Dystrophy, Facioscapulohumeral",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0917713",
+      "name": "Becker Muscular Dystrophy",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0270952",
+      "name": "Muscular Dystrophy, Oculopharyngeal",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1450052",
+      "name": "Tibial Muscular Dystrophy",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0410192",
+      "name": "Muscular Dystrophy, Scapulohumeral",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0699743",
+      "name": "Congenital muscular dystrophy (disorder)",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0410174",
+      "name": "Fukuyama Type Congenital Muscular Dystrophy",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0026851",
+      "name": "Muscular Dystrophy, Animal",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4016477",
+      "name": "INTERMEDIATE MUSCULAR DYSTROPHY",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1869123",
+      "name": "Limb-girdle muscular dystrophy type 2A",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0410179",
+      "name": "Ullrich congenital muscular dystrophy 1",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0410189",
+      "name": "Muscular Dystrophy, Emery-Dreifuss",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1858118",
+      "name": "Muscular Dystrophy, Congenital, 1B",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1838244",
+      "name": "TIBIAL MUSCULAR DYSTROPHY, TARDIVE",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2750076",
+      "name": "Miyoshi Muscular Dystrophy 3",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4551973",
+      "name": "Miyoshi Muscular Dystrophy 1",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1442927",
+      "name": "Muscular Dystrophy, Cardiac Type",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1834673",
+      "name": "Facioscapulohumeral muscular dystrophy 1a",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2750077",
+      "name": "Miyoshi Muscular Dystrophy 2",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1834671",
+      "name": "FACIOSCAPULOHUMERAL MUSCULAR DYSTROPHY 1B",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1847759",
+      "name": "MUSCULAR DYSTROPHY, CONGENITAL, 1C",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C5399970",
+      "name": "FACIOSCAPULOHUMERAL MUSCULAR DYSTROPHY 1",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1834688",
+      "name": "Muscular Dystrophy, Barnes Type",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0002736",
+      "name": "Amyotrophic Lateral Sclerosis",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1862939",
+      "name": "AMYOTROPHIC LATERAL SCLEROSIS 1",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2677565",
+      "name": "Amyotrophic Lateral Sclerosis 10",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1837728",
+      "name": "Amyotrophic Lateral Sclerosis 8",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1865864",
+      "name": "AMYOTROPHIC LATERAL SCLEROSIS 5",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1847735",
+      "name": "Amyotrophic Lateral Sclerosis 3",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1842674",
+      "name": "Amyotrophic Lateral Sclerosis 7",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2678468",
+      "name": "Amyotrophic Lateral Sclerosis 9",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2675491",
+      "name": "AMYOTROPHIC LATERAL SCLEROSIS 11",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3715155",
+      "name": "AMYOTROPHIC LATERAL SCLEROSIS 19",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3715156",
+      "name": "AMYOTROPHIC LATERAL SCLEROSIS 20",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3553719",
+      "name": "AMYOTROPHIC LATERAL SCLEROSIS 18",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4693381",
+      "name": "Amyotrophic Lateral Sclerosis 23",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3150692",
+      "name": "AMYOTROPHIC LATERAL SCLEROSIS 12",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3807521",
+      "name": "AMYOTROPHIC LATERAL SCLEROSIS 21",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4551993",
+      "name": "Amyotrophic Lateral Sclerosis, Familial",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1862941",
+      "name": "Amyotrophic Lateral Sclerosis, Sporadic",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C5830642",
+      "name": "AMYOTROPHIC LATERAL SCLEROSIS 28",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2931786",
+      "name": "Amyotrophic lateral sclerosis, type 6",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0543859",
+      "name": "Amyotrophic Lateral Sclerosis, Guam Form",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1865409",
+      "name": "Amyotrophic Lateral Sclerosis 4, Juvenile",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1859807",
+      "name": "Amyotrophic Lateral Sclerosis 2, Juvenile",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0393554",
+      "name": "Amyotrophic Lateral Sclerosis With Dementia",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3280587",
+      "name": "AMYOTROPHIC LATERAL SCLEROSIS 16, JUVENILE",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C5830359",
+      "name": "AMYOTROPHIC LATERAL SCLEROSIS 27, JUVENILE",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0026896",
+      "name": "Myasthenia Gravis",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0158982",
+      "name": "Neonatal Myasthenia Gravis",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0751340",
+      "name": "Myasthenia Gravis, Ocular",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0751339",
+      "name": "Myasthenia Gravis, Generalized",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0752327",
+      "name": "Antenatal Myasthenia Gravis",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0752087",
+      "name": "Myasthenia Gravis, Autoimmune, Experimental",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0495465",
+      "name": "Myasthenia Gravis, Neonatal, Transient",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4761103",
+      "name": "Muscle-Specific Receptor Tyrosine Kinase Myasthenia Gravis",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0393941",
+      "name": "Persistent neonatal myasthenia gravis",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1846838",
+      "name": "Myasthenia Gravis with Thymus Hyperplasia",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0751882",
+      "name": "Myasthenic Syndromes, Congenital",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0066992",
+      "name": "myasthenia gravis anti-skeletal muscle antibody",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0752088",
+      "name": "Experimental Autoimmune Myasthenia Gravis, Passive Transfer",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1834635",
+      "name": "Myasthenia, Limb-Girdle, Autoimmune",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0393929",
+      "name": "Familial infantile myasthenia",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0024141",
+      "name": "Lupus Erythematosus, Systemic",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0409979",
+      "name": "Neonatal Systemic lupus erythematosus",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0752335",
+      "name": "Neuropsychiatric Systemic Lupus Erythematosus",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3280743",
+      "name": "Systemic lupus erythematosus, childhood onset",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3280742",
+      "name": "SYSTEMIC LUPUS ERYTHEMATOSUS 16",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C5676884",
+      "name": "SYSTEMIC LUPUS ERYTHEMATOSUS 17",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3862275",
+      "name": "SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C5883855",
+      "name": "Systemic lupus erythematosus (SLE)/SLE-like disease",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C5393815",
+      "name": "Autoimmune disease resembling systemic lupus erythematosus (SLE, 152700)",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1864265",
+      "name": "SYSTEMIC LUPUS ERYTHEMATOSUS, RESISTANCE TO, 1",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1970455",
+      "name": "SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 9",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2677096",
+      "name": "SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 11",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1854577",
+      "name": "SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 2",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1835919",
+      "name": "SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 6",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2677097",
+      "name": "SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 10",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1854235",
+      "name": "SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 3",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1866373",
+      "name": "SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 1",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1864732",
+      "name": "SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 7",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2749008",
+      "name": "SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 15",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2751054",
+      "name": "SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 14",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1835929",
+      "name": "SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 5",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1842057",
+      "name": "SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 4",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1864731",
+      "name": "SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 8",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2676487",
+      "name": "SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 13",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2677095",
+      "name": "SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 12",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0011644",
+      "name": "Scleroderma",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0036421",
+      "name": "Systemic Scleroderma",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0036420",
+      "name": "Localized scleroderma",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0263409",
+      "name": "Linear Scleroderma",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1258104",
+      "name": "Diffuse Scleroderma",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0748540",
+      "name": "Scleroderma, Limited",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1192234",
+      "name": "Scleroderma dictyosporum",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1192236",
+      "name": "Scleroderma geaster",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1913883",
+      "name": "Gallacea scleroderma",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1027110",
+      "name": "Scleroderma citrinum",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4641887",
+      "name": "Scleroderma bougheri",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1944237",
+      "name": "Scleroderma macalpinei",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4444475",
+      "name": "Scleroderma duckei",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4445362",
+      "name": "Scleroderma dunensis",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0319841",
+      "name": "Scleroderma aurantium",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1192232",
+      "name": "Scleroderma bovista",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1192238",
+      "name": "Scleroderma verrucosum",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1040388",
+      "name": "Scleroderma hypogaeum",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4445364",
+      "name": "Scleroderma nitidum",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1192231",
+      "name": "Scleroderma areolatum",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1192237",
+      "name": "Scleroderma sinnamariense",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3722425",
+      "name": "Scleroderma suthepense",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1192233",
+      "name": "Scleroderma cepa",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1192235",
+      "name": "Scleroderma echinatum",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3391917",
+      "name": "Camarops scleroderma",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0001623",
+      "name": "Adrenal gland hypofunction",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0948387",
+      "name": "Secondary Adrenal Insufficiency",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3887896",
+      "name": "Primary Adrenal Insufficiency",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3502131",
+      "name": "Adrenal Insufficiency, Congenital",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3809739",
+      "name": "No adrenal insufficiency",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4021127",
+      "name": "Corticotropin-releasing hormone deficient adrenal insufficiency",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4023211",
+      "name": "Adrenocorticotropin deficient adrenal insufficiency",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4479664",
+      "name": "ADRENAL INSUFFICIENCY, NR5A1-RELATED",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0001403",
+      "name": "Addison Disease",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1856420",
+      "name": "Adrenocorticotropic hormone (ACTH)-resistant adrenal insufficiency",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3275559",
+      "name": "Adrenal insufficiency, congenital (300200) in 'complex' form",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3502132",
+      "name": "Adrenal Insufficiency, Congenital, With 46,Xy Sex Reversal",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0271742",
+      "name": "Glucocorticoid deficiency with achalasia",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4021548",
+      "name": "Adrenocorticotropin receptor defect",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1846220",
+      "name": "Adrenal Hypoplasia, Congenital, with Precocious Puberty",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3151055",
+      "name": "ADRENAL INSUFFICIENCY, CONGENITAL, WITH 46,XY SEX REVERSAL, PARTIAL OR COMPLETE",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3809991",
+      "name": "IMMUNODEFICIENCY, COMMON VARIABLE, 10",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1857854",
+      "name": "Proopiomelanocortin Deficiency",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0031511",
+      "name": "Pheochromocytoma",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4551683",
+      "name": "Adrenal Gland Pheochromocytoma",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1257877",
+      "name": "Pheochromocytoma, Extra-Adrenal",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1833930",
+      "name": "PHEOCHROMOCYTOMA, SOMATIC",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1854347",
+      "name": "Tachycardia (with pheochromocytoma)",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1854341",
+      "name": "Diaphoresis (with pheochromocytoma)",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1854346",
+      "name": "Palpitations (with pheochromocytoma)",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1397267",
+      "name": "Hypertension (with pheochromocytoma)",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1854337",
+      "name": "Headache (with pheochromocytoma)",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1854339",
+      "name": "Anxiety (with pheochromocytoma)",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3149711",
+      "name": "PHEOCHROMOCYTOMA, SUSCEPTIBILITY TO",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2930839",
+      "name": "Bilateral pheochromocytoma and islet cell adenoma of the pancreas",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C5193112",
+      "name": "PHEOCHROMOCYTOMA/PARAGANGLIOMA SYNDROME 6",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4025693",
+      "name": "Hypertension associated with pheochromocytoma",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C5193116",
+      "name": "PHEOCHROMOCYTOMA/PARAGANGLIOMA SYNDROME 7",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1861855",
+      "name": "Increased urinary catecholamines (with pheochromocytoma)",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1834232",
+      "name": "Neurofibromatosis-Pheochromocytoma-Duodenal Carcinoid Syndrome",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1868392",
+      "name": "Pheochromocytoma Islet Cell Tumor Syndrome",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0085262",
+      "name": "PC12 Cells",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1861848",
+      "name": "PARAGANGLIOMAS 4",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1366526",
+      "name": "BTG2 gene",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3494181",
+      "name": "Glomus Tumors, Familial, 1",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1854336",
+      "name": "PARAGANGLIOMAS 3",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1866552",
+      "name": "Paragangliomas 2",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3279992",
+      "name": "PARAGANGLIOMAS 5",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0026769",
+      "name": "Multiple Sclerosis",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3711850",
+      "name": "Opticospinal Multiple Sclerosis",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0751967",
+      "name": "Multiple Sclerosis, Relapsing-Remitting",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0393665",
+      "name": "Multiple Sclerosis, Chronic Progressive",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0751964",
+      "name": "Multiple Sclerosis, Primary Progressive",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0751965",
+      "name": "Multiple Sclerosis, Secondary Progressive",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0393666",
+      "name": "Multiple Sclerosis, Progressive Relapsing",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0393664",
+      "name": "Multiple Sclerosis, Acute Relapsing",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1868685",
+      "name": "MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0751324",
+      "name": "Multiple Sclerosis, Acute Fulminating",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3888106",
+      "name": "MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 1",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3553728",
+      "name": "MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 5",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2675477",
+      "name": "MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 3",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2675478",
+      "name": "MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 2",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2675476",
+      "name": "MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 4",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1838878",
+      "name": "Multiple sclerosis-like illness (516003.0001)",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2677247",
+      "name": "MULTIPLE SCLEROSIS, DISEASE PROGRESSION, MODIFIER OF",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1832273",
+      "name": "Ribbing disease",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1868512",
+      "name": "Leukodystrophy, Demyelinating, Adult-Onset, Autosomal Dominant",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0057378",
+      "name": "demyelinating factors",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0432269",
+      "name": "Lenz Majewski hyperostotic dwarfism",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C0010346",
+      "name": "Crohn Disease",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C5436750",
+      "name": "INFLAMMATORY BOWEL DISEASE (CROHN DISEASE) 30",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4310865",
+      "name": "INFLAMMATORY BOWEL DISEASE (CROHN DISEASE) 10, SUSCEPTIBILITY TO",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C4310900",
+      "name": "INFLAMMATORY BOWEL DISEASE 1 (CROHN DISEASE), SUSCEPTIBILITY TO",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C5194008",
+      "name": "Inflammatory bowel disease (Crohn disease and ulcerative colitis)",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2675113",
+      "name": "CROHN DISEASE-ASSOCIATED GROWTH FAILURE, SUSCEPTIBILITY TO",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C1970207",
+      "name": "Inflammatory Bowel Disease 10",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2677079",
+      "name": "Inflammatory Bowel Disease 19",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C3149422",
+      "name": "Autoimmune disorders (i.e., ITP, juvenile rheumatoid arthritis (JRA), hypothyroidism, Crohn disease)",
+      "type": "Disease",
+      "source": "UMLS"
+    },
+    {
+      "id": "C2931133",
+      "name": "Pediatric Crohn's disease",
+      "type": "Disease",
+      "source": "UMLS"
+    }
+  ],
+  "edges": []
+}

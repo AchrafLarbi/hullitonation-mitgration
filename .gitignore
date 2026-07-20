@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# Data & Large files (GitHub limits >100MB)
+*.jsonl
+*.zip
+faiss_index/
+results-*/
+dataset_staging/
+dataset/faiss_index/
+dataset/results-*/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints
